@@ -53,6 +53,9 @@ linear classifier?
 * What is the difference between Transfer Learning and
 Fine-tuning?
 * How inception v4 is different from vgg16 neural network architecture?
+* Why does the LSTM structure deduct better than RNN?
+* Explain adaptive Learning Rate Algorithm: AdaGrad, RMSProp, Adam, etc.
+* How to avoid morbidity in deep learning, saddle point, gradient explosion, gradient dispersion?
 
 to add more :
 
