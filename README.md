@@ -56,7 +56,18 @@ Fine-tuning?
 * Why does the LSTM structure deduct better than RNN?
 * Explain adaptive Learning Rate Algorithm: AdaGrad, RMSProp, Adam, etc.
 * How to avoid morbidity in deep learning, saddle point, gradient explosion, gradient dispersion?
-
+* What is Deep Learning and why is it so popular?
+* Is Deep Learning just a hype or does it have real-life applications?
+* What is the difference between Deep Learning and Machine Learning?
+* What are the prerequisites for starting out in Deep Learning?
+* Is it necessary to have a research background in Deep Learning to start out in it?
+* Which Tools/Languages should I prefer to build Deep Learning models?
+* Why are GPUs necessary for building Deep Learning models?
+* When (and where) to apply Deep Learning?
+* Do we need a lot of data to train deep learning models?
+* Where can I find some basic project ideas in order to practice deep learning?
+* What are the free learning resources for Deep Learning?
+* What is the future of Deep Learning?
 to add more :
 
     Clone the repository
